@@ -12,6 +12,7 @@ The hardware, firmware, and software of OpenTurnKey is published as an open-sour
 
 
 OpenTurnKey firmware: https://github.com/Cyphereco/openturnkey-firmware
+
 OpenTurnKey software: 
 - for iOS: https://github.com/Cyphereco/openturnkey_app_ios
 - for Android: https://github.com/Cyphereco/openturnkey-app-android
