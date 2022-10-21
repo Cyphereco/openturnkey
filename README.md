@@ -9,3 +9,9 @@ OpenTurnKey hardware design includes a fingerprint sensor. Whenever a user needs
 NFC and wireless charging is used in OpenTurnKey to ensure the hardware will not be hacked via a physical connection. Only limited commands and data are allowed to be transmitted through NFC via a simple proprietary protocol. 
 
 The hardware, firmware, and software of OpenTurnKey is published as an open-source design without any warranty. For anyone who is interested in making a product or personal use, please feel free to donwload the source. If there is any question, you may contact with me via GitHub or open an issue, but I cannot gauranttee to answer every one of them. 
+
+
+OpenTurnKey firmware: https://github.com/Cyphereco/openturnkey-firmware
+OpenTurnKey software: 
+- for iOS: https://github.com/Cyphereco/openturnkey_app_ios
+- for Android: https://github.com/Cyphereco/openturnkey-app-android
